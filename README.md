@@ -4,7 +4,7 @@
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas no **IFSP**
 
-- 💻 Portfólio: **deboramiyake.github.io**
+- 💻 Portfólio: **[deboramiyake.github.io](https://deboramiyake.github.io/)**
 
 <p align="left">
     <h2 align="left">Habilidades</h2>
