@@ -1,8 +1,8 @@
 # Débora Miyake 
 
-- 👩🏻‍💻 Desenvolvedora web
+- 👩🏻‍💻 Desenvolvedora
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas no **IFSP**
+- 📚 Formada em Análise e Desenvolvimento de Sistemas no **IFSP**
 
 - 💻 Portfólio: **[deboramiyake.github.io](https://deboramiyake.github.io/)**
 
